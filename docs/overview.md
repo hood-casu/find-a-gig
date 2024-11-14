@@ -15,5 +15,5 @@ Use the steps on the Getting started page before using the Find-a-gig API.
 
 * instrumentalists
 * vocalists
-
+* 
 ## FAQs
