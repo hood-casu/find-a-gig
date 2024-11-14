@@ -8,7 +8,8 @@ Use the steps on the Getting started page before using the Find-a-gig API.
 
 ## Tutorials
 
-* 
+* Get all instrumentalists
+* Get all vocalists
 
 ## Reference documentation
 
