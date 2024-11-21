@@ -2,9 +2,9 @@
 
 Welcome to the Find-a-gig API!
 
-![Musicians connected by a motherboard](../images/find-a-gig-img.jpg)
+<img src="../images/find-a-gig-img.jpg" width="200" height="150" alt="musicians connected by a motherboard">
 
-The Find-a-gig API is a REST service for musicians who want to find a musician for a gig and musicians who want to be found for a gig. Instrumentalists and vocalists can create profiles with their personal information and gig preferences. 
+The Find-a-gig API is a REST service for musicians who want to find other musicians for a gig and for musicians who want to be found for a gig. Instrumentalists and vocalists can create profiles with their personal information and gig preferences. 
 
 ## Getting started
 
@@ -12,14 +12,14 @@ Use the steps on the [Getting started](getting-started.md) page before using the
 
 ## Tutorials
 
-* [Get all instrumentalists](get-all-instrumentalists.md)
-* [Get all vocalists](get-all-vocalists.md)
-* [Add an instrumentalist](add-an-instrumentalist.md)
-* [Add a vocalist](add-a-vocalist.md)
+* [Get all instrumentalists](../docs/api/inst-get-all-instrumentalists-by-id.md)
+* [Get all vocalists](../docs/api/vocalists-get-all-vocalists.md)
+* [Add an instrumentalist](../docs/tutorials/add-an-instrumentalist.md)
+* [Add a vocalist](../docs/tutorials/add-a-vocalist.md)
 
 ## Reference documentation
 
-* [Instrumentalists resource](instrumentalists.md)
-* [Vocalists resource](vocalists.md)
+* [Instrumentalists resource](../docs/api/instrumentalists.md)
+* [Vocalists resource](../docs/api/vocalists.md)
 
 ## FAQs
