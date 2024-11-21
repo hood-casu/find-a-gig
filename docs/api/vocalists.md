@@ -31,9 +31,9 @@ Sample `vocalists` resource
 | location | string | Vocalist's self-reported location or area in which they can gig.
 | preferred_genre | string | Vocalist's preferred music genre for gigs.
 | gig_type | string | Vocalist's preference for frequency of gigs.
-| id | number | Identification number assigned to the vocalist upon addition to the Find-a-gig API. 
+| id | number | Identification number assigned to the vocalist upon adding their profile to the Find-a-gig API. 
 
 ## Related pages
-* [ADD an vocalist](add-a-vocalist.md)
-* [GET all vocalists](get-all-vocalists.md)
-* [Instrumentalists resource](instrumentalists.md)
+* [ADD a vocalist](../tutorials/add-a-vocalist.md)
+* [GET all vocalists](../api/vocalists-get-all-vocalists.md)
+* [Instrumentalists resource](../api/instrumentalists.md)
