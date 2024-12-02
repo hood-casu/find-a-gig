@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Find-a-gig API Overview
 
 Welcome to the Find-a-gig API!
