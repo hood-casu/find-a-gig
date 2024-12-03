@@ -27,3 +27,6 @@ Use the steps on the [Getting started](getting-started.md) page before using the
 * [Vocalists resource](../docs/api/vocalists.md)
 
 ## Helpful links
+
+* Troublehooting help
+* Submit feedback
