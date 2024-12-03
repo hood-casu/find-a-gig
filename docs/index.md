@@ -6,9 +6,7 @@ layout: page
 
 Welcome to the Find-a-gig API!
 
-The Find-a-gig API is a REST service for musicians who want to find other musicians for a gig and for musicians who want to be found for a gig.
-
-Instrumentalists and vocalists can create profiles with their personal information and gig preferences.
+The Find-a-gig API is a REST service for musicians who want to find other musicians for a gig and for musicians who want to be found for a gig. Instrumentalists and vocalists can create profiles with their personal information and gig preferences. 
 
 ## Getting started
 
@@ -26,7 +24,4 @@ Use the steps on the [Getting started](getting-started.md) page before using the
 * [Instrumentalists resource](../docs/api/instrumentalists.md)
 * [Vocalists resource](../docs/api/vocalists.md)
 
-## Helpful links
-
-* Troublehooting help
-* Submit feedback
+## FAQs
