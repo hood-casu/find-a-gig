@@ -6,7 +6,7 @@ layout: page
 
 Welcome to the Find-a-gig API!
 
-<img src="../images/find-a-gig-img.jpg" width="200" height="150" alt="musicians connected by a motherboard">
+<img src="https://hood-casu.github.io/find-a-gig/images/find-a-gig-img.jpg" width="200" height="150" alt="musicians connected by a motherboard">
 
 The Find-a-gig API is a REST service for musicians who want to find other musicians for a gig and for musicians who want to be found for a gig. Instrumentalists and vocalists can create profiles with their personal information and gig preferences.
 
