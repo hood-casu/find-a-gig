@@ -16,14 +16,28 @@ Use the steps on the [Getting started](getting-started.md) page before using the
 
 ## Tutorials
 
-* [Get all instrumentalists](../docs/api/inst-get-all-instrumentalists-by-id.md)
-* [Get all vocalists](../docs/api/vocalists-get-all-vocalists.md)
-* [Add an instrumentalist](../docs/tutorials/add-an-instrumentalist.md)
-* [Add a vocalist](../docs/tutorials/add-a-vocalist.md)
+* [Add an instrumentalist profile](../docs/tutorials/add-an-instrumentalist.md)
+* [Add a vocalist profile](../docs/tutorials/add-a-vocalist.md)
+* [Find an instrumentalist for a gig]()
+* [Find a vocalist for a gig]()
+* [Remove an instrumentalist profile](../docs/tutorials/delete-an-instrumentalist.md)
+* [Remove a vocalist profile]()
+* 
 
 ## Reference documentation
 
+
 * [Instrumentalists resource](../docs/api/instrumentalists.md)
 * [Vocalists resource](../docs/api/vocalists.md)
+* [Get all instrumentalists](../docs/api/inst-get-all-instrumentalists-by-id.md)
+* [Get all vocalists](../docs/api/vocalists-get-all-vocalists.md)
+* [Delete an instrumentalist]()
+* [Delete a vocalist]()
+* [Update an instrumentalist]()
+* [Update a vocalist]()
 
 ## Helpful links
+
+* Submit feedback for Find-a-gig documentation
+* Troubleshooting tips
+  
