@@ -4,3 +4,4 @@ baseurl: "/find-a-gig" # Leave blank for root-level deployment
 url: "https://hood-casu.github.io"
 theme: minima # Default GitHub Pages theme
 markdown: kramdown
+permalink: pretty
