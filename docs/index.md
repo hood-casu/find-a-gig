@@ -22,13 +22,19 @@ Use the steps on the [Getting started](getting-started.md) page before using the
 * [Find a vocalist for a gig]()
 * [Remove an instrumentalist profile](../docs/tutorials/delete-an-instrumentalist.md)
 * [Remove a vocalist profile]()
+* 
 
 ## Reference documentation
 
-Access all the CRUD reference pages for these resources on the [API Reference page](../docs/api/api-reference.md).
 
 * [Instrumentalists resource](../docs/api/instrumentalists.md)
 * [Vocalists resource](../docs/api/vocalists.md)
+* [Get all instrumentalists](../docs/api/inst-get-all-instrumentalists-by-id.md)
+* [Get all vocalists](../docs/api/vocalists-get-all-vocalists.md)
+* [Delete an instrumentalist]()
+* [Delete a vocalist]()
+* [Update an instrumentalist]()
+* [Update a vocalist]()
 
 ## Helpful links
 
