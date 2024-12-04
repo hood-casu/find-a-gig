@@ -21,7 +21,7 @@ Use the steps on the [Getting started](getting-started.md) page before using the
 * [Find an instrumentalist for a gig]()
 * [Find a vocalist for a gig]()
 * [Remove an instrumentalist profile](../docs/tutorials/delete-an-instrumentalist.md)
-* [Remove a vocalist profile]()
+* [Remove a vocalist profile](../docs/tutorials/remove-a-vocalist.md)
 
 ## Reference documentation
 
