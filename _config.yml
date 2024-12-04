@@ -1,0 +1,6 @@
+title: Find-a-gig API Documentation
+description: A GitHub Pages site built with Jekyll
+baseurl: "" # Leave blank for root-level deployment
+url: "https://hood-casu.github.io"
+theme: minima # Default GitHub Pages theme
+markdown: kramdown
