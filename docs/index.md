@@ -16,7 +16,7 @@ Use the steps on the [Getting started](getting-started.md) page before using the
 
 ## Tutorials
 
-* [Add an instrumentalist profile](../docs/tutorials/add-an-instrumentalist.md)
+* [Add an instrumentalist profile](add-an-instrumentalist.md)
 * [Add a vocalist profile](../docs/tutorials/add-a-vocalist.md)
 * [Find an instrumentalist for a gig]()
 * [Find a vocalist for a gig]()
