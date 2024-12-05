@@ -17,7 +17,7 @@ Use the steps on the [Getting started](getting-started.md) page before using the
 
 ## Tutorials
 
-* [Add an instrumentalist profile]({{ 'tutorials/add-an-inst-profile.md' | relative_url }})
+* [Add an instrumentalist profile]({{ 'tutorials/add-an-inst-profile/' | relative_url }})
 * [Add a vocalist profile](tutorials/add-a-vocalist.md)
 * [Find an instrumentalist for a gig]()
 * [Find a vocalist for a gig]()
