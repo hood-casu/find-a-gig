@@ -2,4 +2,10 @@
 layout: page
 ---
 
-# Add a musician
+# Tutorial: Add a vocalist profile
+
+## Prerequisites
+
+## How to add a vocalist profile
+
+
