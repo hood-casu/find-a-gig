@@ -1,18 +1,18 @@
 title: Find-a-gig API Documentation
-description: A GitHub Pages site built with Jekyll
+author:
+  name: 
+  - Caitlin Hood
+description: An API documentation portfolio for the mock Find-a-gig API.
 baseurl: "/find-a-gig" # Leave blank for root-level deployment
 url: "https://hood-casu.github.io"
 theme: minima # Default GitHub Pages theme
 markdown: kramdown
 permalink: pretty
 header_pages:
-  -index/
-  -api-reference/
-  -tutorials/
-author:
-  -name: Caitlin Hood
+  - index.md
+  - api-reference.md
+  - tutorials.md
 minima:
   social_links:
     - { platform: linkedin, user_url: "www.linkedin.com/in/caitlin-hood-a115a35b"}
-
   
