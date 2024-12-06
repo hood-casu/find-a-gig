@@ -13,23 +13,23 @@ Instrumentalists and vocalists can create profiles with their personal informati
 
 ## Getting started
 
-Use the steps on the [Getting started](prerequisites.md) page before using the Find-a-gig API.
+Use the steps on the [Getting started](prerequisites/) page before using the Find-a-gig API.
 
 ## Tutorials
 
 * [Add an instrumentalist profile](add-an-inst-profile/)
-* [Add a vocalist profile](tutorials/add-a-vocalist-profile.md)
+* [Add a vocalist profile](add-a-vocalist-profile/)
 * [Find an instrumentalist for a gig]()
 * [Find a vocalist for a gig]()
-* [Remove an instrumentalist profile](delete-an-instrumentalist.md)
-* [Remove a vocalist profile](remove-a-vocalist.md)
+* [Remove an instrumentalist profile](delete-an-instrumentalist/)
+* [Remove a vocalist profile](remove-a-vocalist/)
 
 ## Reference documentation
 
-Access all the CRUD reference pages for these resources on the [API Reference page](api-reference.md).
+Access all the CRUD reference pages for these resources on the [API Reference page](api-reference/).
 
-* [Instrumentalists resource](instrumentalists.md)
-* [Vocalists resource](vocalists.md)
+* [Instrumentalists resource](instrumentalists/)
+* [Vocalists resource](vocalists/)
 
 ## Helpful links
 
