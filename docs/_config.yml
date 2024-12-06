@@ -6,9 +6,9 @@ theme: minima # Default GitHub Pages theme
 markdown: kramdown
 permalink: pretty
 header_pages:
-  -index.md
-  -api-reference.md
-  -tutorials.md
+  -index/
+  -api-reference/
+  -tutorials/
 author:
   -name: Caitlin Hood
 minima:
