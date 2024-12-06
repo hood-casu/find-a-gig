@@ -13,7 +13,7 @@ Instrumentalists and vocalists can create profiles with their personal informati
 
 ## Getting started
 
-Use the steps on the [Getting started](prerequisites/) page before using the Find-a-gig API.
+Use the steps on the [Prerequisites](prerequisites/) page before using the Find-a-gig API.
 
 ## Tutorials
 
@@ -33,6 +33,6 @@ Access all the CRUD reference pages for these resources on the [API Reference pa
 
 ## Helpful links
 
-* Submit feedback for Find-a-gig documentation
-* Troubleshooting tips
+* [Submit feedback](contact-info/) for Find-a-gig documentation
+* [Troubleshooting tips](troubleshooting/) 
   
