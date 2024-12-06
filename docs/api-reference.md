@@ -6,7 +6,7 @@ layout: page
 ## Resources
 
 * instrumentalists
-  * [Create an instrumentalist](inst-create-inst.md)
+  * [Create an instrumentalist](inst-create-inst/)
   * [Get all instrumentalists](inst-get-all-inst.md)
   * [Get instrumentalist by ID](inst-get-inst-by-id.md)
   * [Update an instrumentalist](inst-update-inst.md)

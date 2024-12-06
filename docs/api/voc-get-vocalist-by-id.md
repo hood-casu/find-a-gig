@@ -2,4 +2,4 @@
 layout: page
 ---
 
-# Add a musician
+# GET vocalists by ID
