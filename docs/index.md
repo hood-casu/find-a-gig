@@ -13,7 +13,7 @@ Instrumentalists and vocalists can create profiles with their personal informati
 
 ## Getting started
 
-Use the steps on the [Getting started](prerequisites/) page before using the Find-a-gig API.
+Use the steps on the [Getting started](/prerequisites/) page before using the Find-a-gig API.
 
 ## Tutorials
 
