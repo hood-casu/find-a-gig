@@ -1,7 +1,6 @@
 title: Find-a-gig API Documentation
 author:
-  name: 
-  - Caitlin Hood
+  name: Caitlin Hood
 description: An API documentation portfolio for the mock Find-a-gig API.
 baseurl: "/find-a-gig" # Leave blank for root-level deployment
 url: "https://hood-casu.github.io"
