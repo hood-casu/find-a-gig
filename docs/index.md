@@ -19,9 +19,9 @@ Use the steps on the [Prerequisites](prerequisites/) page before using the Find-
 
 * [Add an instrumentalist profile](tutorials/add-an-inst-profile/)
 * [Add a vocalist profile](tutorials/add-a-vocalist-profile/)
-* [Find an instrumentalist for a gig]()
-* [Find a vocalist for a gig]()
-* [Remove an instrumentalist profile](tutorials/delete-an-instrumentalist/)
+* [Find an instrumentalist for a gig](tutorials/find-an-inst/)
+* [Find a vocalist for a gig](tutorials/find-a-vocalist/)
+* [Remove an instrumentalist profile](tutorials/remove-an-inst/)
 * [Remove a vocalist profile](tutorials/remove-a-vocalist/)
 
 ## Reference documentation
@@ -44,5 +44,5 @@ Use the reference documentation below to resource details, example requests, and
 ## Helpful links
 
 * [Submit feedback](contact-info/) for Find-a-gig documentation
-* [Troubleshooting tips](troubleshooting/) 
+* [Troubleshooting tips](troubleshooting/)
   
