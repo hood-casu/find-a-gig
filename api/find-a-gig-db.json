@@ -1,121 +1,133 @@
 {
   "instrumentalist": [
-      {
-          "last_name": "Beverly",
-          "first_name": "Levi",
-          "email": "levi@example.com",
-          "phone_number": "443-555-1347",
-          "instrument": "drums",
-          "experience_level": "advanced",
-          "location": "Maryland",
-          "preferred_genre": "metal",
-          "gig_type": "long-term",
-          "id": 1
-      },
-      {
-          "last_name": "Johnson",
-          "first_name": "Lily",
-          "email": "ljohnson@example.com",
-          "phone_number": "512-555-2741",
-          "instrument": "guitar",
-          "experience_level": "advanced",
-          "location": "Texas",
-          "preferred_genre": "blues",
-          "gig_type": "one-time",
-          "id": 2
-      },
-      {
-          "last_name": "Garcia",
-          "first_name": "Carlos",
-          "email": "carlos@example.com",
-          "phone_number": "718-555-7865",
-          "instrument": "bass",
-          "experience_level": "beginner",
-          "location": "New York",
-          "preferred_genre": "jazz",
-          "gig_type": "long-term",
-          "id": 3
-      },
-      {
-          "last_name": "Brown",
-          "first_name": "Elliot",
-          "email": "elliotb@example.com",
-          "phone_number": "303-555-9924",
-          "instrument": "keyboard",
-          "experience_level": "advanced",
-          "location": "Colorado",
-          "preferred_genre": "funk",
-          "gig_type": "one-time",
-          "id": 4
-      },
-      {
-          "last_name": "Lee",
-          "first_name": "Sam",
-          "email": "slee@example.com",
-          "phone_number": "212-555-8899",
-          "instrument": "bass",
-          "experience_level": "intermediate",
-          "location": "New York",
-          "preferred_genre": "rock",
-          "gig_type": "long-term",
-          "id": 5
-      }
+    {
+      "last_name": "Beverly",
+      "first_name": "Levi",
+      "email": "levi@example.com",
+      "phone_number": "443-555-1347",
+      "instrument": "drums",
+      "experience_level": "advanced",
+      "location": "Maryland",
+      "preferred_genre": "metal",
+      "gig_type": "long-term",
+      "id": 1
+    },
+    {
+      "last_name": "Johnson",
+      "first_name": "Lily",
+      "email": "ljohnson@example.com",
+      "phone_number": "512-555-2741",
+      "instrument": "guitar",
+      "experience_level": "advanced",
+      "location": "Texas",
+      "preferred_genre": "blues",
+      "gig_type": "one-time",
+      "id": 2
+    },
+    {
+      "last_name": "Garcia",
+      "first_name": "Carlos",
+      "email": "carlos@example.com",
+      "phone_number": "718-555-7865",
+      "instrument": "bass",
+      "experience_level": "beginner",
+      "location": "New York",
+      "preferred_genre": "jazz",
+      "gig_type": "long-term",
+      "id": 3
+    },
+    {
+      "last_name": "Brown",
+      "first_name": "Elliot",
+      "email": "elliotb@example.com",
+      "phone_number": "303-555-9924",
+      "instrument": "keyboard",
+      "experience_level": "advanced",
+      "location": "Colorado",
+      "preferred_genre": "funk",
+      "gig_type": "one-time",
+      "id": 4
+    },
+    {
+      "last_name": "Lee",
+      "first_name": "Sam",
+      "email": "slee@example.com",
+      "phone_number": "212-555-8899",
+      "instrument": "bass",
+      "experience_level": "intermediate",
+      "location": "New York",
+      "preferred_genre": "rock",
+      "gig_type": "long-term",
+      "id": 5
+    },
+    {
+      "last_name": "User",
+      "first_name": "Test",
+      "email": "testuser@example.com",
+      "phone_number": "555-555-5555",
+      "instrument": "guitar",
+      "experience_level": "advanced",
+      "location": "State",
+      "preferred_genre": "blues",
+      "gig_type": "one-time",
+      "id": 6
+    }
   ],
   "vocalist": [
-      {
-          "last_name": "Nguyen",
-          "first_name": "Anya",
-          "email": "anya@example.com",
-          "phone_number": "202-555-7853",
-          "experience_level": "intermediate",
-          "location": "California",
-          "preferred_genre": "pop",
-          "gig_type": "one-time",
-          "id": 1
-      },
-      {
-          "last_name": "Kim",
-          "first_name": "Soo",
-          "email": "soosingskim@example.com",
-          "phone_number": "404-555-3429",
-          "experience_level": "beginner",
-          "location": "Georgia",
-          "preferred_genre": "rock",
-          "gig_type": "long-term",
-          "id": 2
-      },
-      {
-          "last_name": "Martinez",
-          "first_name": "Isabel",
-          "email": "isabel.mart.cal@gmail.com",
-          "phone_number": "626-555-1283",
-          "experience_level": "intermediate",
-          "location": "California",
-          "preferred_genre": "jazz",
-          "gig_type": "one-time",
-          "id": 3
-      },
-      {
-          "last_name": "Adams",
-          "first_name": "Tom",
-          "email": "tomadams@gmail.com",
-          "phone_number": "707-555-4537",
-          "experience_level": "beginner",
-          "location": "Florida",
-          "preferred_genre": "country",
-          "gig_type": "long-term",
-          "id": 4
-      },
-      {
-          "last_name": "Robinson",
-          "first_name": "Zoe",
-          "email": "zoesings@gmail.com",
-          "phone_number": "505-555-4321",
-          "experience_level": "advanced",
-          "location": "New Mexico",
-          "preferred_genre": "jazz",
-          "gig_type": "one-time",
-          "id": 5
-      }
+    {
+      "last_name": "Nguyen",
+      "first_name": "Anya",
+      "email": "anya@example.com",
+      "phone_number": "202-555-7853",
+      "experience_level": "intermediate",
+      "location": "California",
+      "preferred_genre": "pop",
+      "gig_type": "one-time",
+      "id": 1
+    },
+    {
+      "last_name": "Kim",
+      "first_name": "Soo",
+      "email": "soosingskim@example.com",
+      "phone_number": "404-555-3429",
+      "experience_level": "beginner",
+      "location": "Georgia",
+      "preferred_genre": "rock",
+      "gig_type": "long-term",
+      "id": 2
+    },
+    {
+      "last_name": "Martinez",
+      "first_name": "Isabel",
+      "email": "isabel.mart.cal@gmail.com",
+      "phone_number": "626-555-1283",
+      "experience_level": "intermediate",
+      "location": "California",
+      "preferred_genre": "jazz",
+      "gig_type": "one-time",
+      "id": 3
+    },
+    {
+      "last_name": "Adams",
+      "first_name": "Tom",
+      "email": "tomadams@gmail.com",
+      "phone_number": "707-555-4537",
+      "experience_level": "beginner",
+      "location": "Florida",
+      "preferred_genre": "country",
+      "gig_type": "long-term",
+      "id": 4
+    },
+    {
+      "last_name": "Robinson",
+      "first_name": "Zoe",
+      "email": "zoesings@gmail.com",
+      "phone_number": "505-555-4321",
+      "experience_level": "advanced",
+      "location": "New Mexico",
+      "preferred_genre": "jazz",
+      "gig_type": "one-time",
+      "id": 5
+    }
   ]
 }

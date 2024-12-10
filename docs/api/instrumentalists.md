@@ -7,7 +7,7 @@ layout: page
 Base endpoint
 
 ```shell
-{base-url}/instrumentalists
+{base-url}/instrumentalist
 ```
 
 ## Resource properties
@@ -35,7 +35,7 @@ Sample `instrumentalists` resource.
 | first_name | string | First name of the instrumentalist.|
 | email | string | Email address for the vocalist.|
 | phone_number | string | Vocalist's phone number. |
-| instrument | string | Instrumentalists preferred instrument for a gig.|
+| instrument | string | Instrumentalist's preferred instrument for a gig.|
 | experience_level | string | Instrumentalist's self-reported experience level as a vocalist.|
 | location | string | Instrumentalists's self-reported location or area in which they can gig.|
 | preferred_genre | string | Instrumentalist's preferred music genre for gigs.|
