@@ -64,6 +64,19 @@
       "long-term-gig": true,
       "short-term-gig": false,
       "id": 5
+    },
+    {
+      "last_name": "User",
+      "first_name": "Test",
+      "email": "testuser@example.com",
+      "phone_number": "555-555-5555",
+      "instrument": "drums",
+      "experience_level": 3,
+      "location": "Maryland",
+      "preferred_genre": "metal",
+      "long-term-gig": true,
+      "short-term-gig": false,
+      "id": 6
     }
   ],
   "vocalist": [
