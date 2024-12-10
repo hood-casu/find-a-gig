@@ -35,10 +35,11 @@ Sample `vocalists` resource
 | first_name | string | First name of the vocalist.|
 | email | string | Email address for the vocalist.|
 | phone_number | string | Vocalist's phone number. |
-| experience_level | string | Vocalist's self-reported experience level as a vocalist.|
+| experience_level | integer | On a scale of 1 to 5, an vocalist's self-reported experience level as a vocalist. One indicates beginner proficiency, and 5 indicates advanced proficiency.|
 | location | string | Vocalist's self-reported location or area in which they can gig.|
 | preferred_genre | string | Vocalist's preferred music genre for gigs.|
-| gig_type | string | Vocalist's preference for frequency of gigs.|
+| long_term_gig | boolean | Vocalist's preference for frequency of gigs.|
+| short_term_gig | boolean | Vocalist's preference for frequency of gigs.|
 | id | number | Identification number assigned to the vocalist upon adding their profile to the Find-a-gig API.|
 
 ## Related pages
