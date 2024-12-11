@@ -4,15 +4,13 @@ layout: page
 
 # DELETE an instrumentalist
 
+Use this call to delete an existing instrumentalist profile with the instrumentalist ID.
+
 ## Base endpoint
 
 ```shell
 {base_url}/instrumentalist
 ```
-
-## Description
-
-Use this call to delete an existing instrumentalist profile with the instrumentalist ID.
 
 ## Parameters
 
@@ -23,6 +21,8 @@ Use this call to delete an existing instrumentalist profile with the instrumenta
 | Parameter | Type | Description |
 | --- | --- | --- |
 | id | integer | Identification number assigned to a users instrumentalist or vocalist profile upon creation.|
+
+Get a profile's ID number by sending a request to [Create an instrumentalist profile](api/inst-create-inst/) or sending a request for [GET all instrumentalists](api/inst-get-all-inst/).
 
 ## Request example
 

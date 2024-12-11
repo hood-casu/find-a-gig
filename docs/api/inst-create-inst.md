@@ -4,15 +4,13 @@ layout: page
 
 # CREATE instrumentalist
 
+Using this API call, you can create a new instrumentalist resource and receive a resource ID associated with the instrumentalist profile.
+
 ## Base endpoint
 
 ```shell
 {base_url}/instrumentalist
 ```
-
-## Description
-
-Using this API call, you can create a new instrumentalist resource and receive a resource ID associated with the instrumentalist profile.
 
 ## Parameters
 
