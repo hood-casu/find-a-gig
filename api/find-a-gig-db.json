@@ -9,8 +9,8 @@
       "experience_level": 5,
       "location": "Maryland",
       "preferred_genre": "metal",
-      "long-term-gig": true,
-      "short-term-gig": false,
+      "long_term_gig": true,
+      "short_term_gig": false,
       "id": 1
     },
     {
@@ -22,8 +22,8 @@
       "experience_level": 5,
       "location": "Texas",
       "preferred_genre": "blues",
-      "long-term-gig": false,
-      "short-term-gig": true,
+      "long_term_gig": false,
+      "short_term_gig": true,
       "id": 2
     },
     {
@@ -35,8 +35,8 @@
       "experience_level": 1,
       "location": "New York",
       "preferred_genre": "jazz",
-      "long-term-gig": true,
-      "short-term-gig": false,
+      "long_term_gig": true,
+      "short_term_gig": false,
       "id": 3
     },
     {
@@ -48,8 +48,8 @@
       "experience_level": 5,
       "location": "Colorado",
       "preferred_genre": "funk",
-      "long-term-gig": false,
-      "short-term-gig": true,
+      "long_term_gig": false,
+      "short_term_gig": true,
       "id": 4
     },
     {
@@ -61,22 +61,9 @@
       "experience_level": 3,
       "location": "New York",
       "preferred_genre": "rock",
-      "long-term-gig": true,
-      "short-term-gig": false,
+      "long_term_gig": true,
+      "short_term_gig": false,
       "id": 5
-    },
-    {
-      "last_name": "User",
-      "first_name": "Test",
-      "email": "testuser@example.com",
-      "phone_number": "555-555-5555",
-      "instrument": "drums",
-      "experience_level": 3,
-      "location": "Maryland",
-      "preferred_genre": "metal",
-      "long-term-gig": false,
-      "short-term-gig": false,
-      "id": 6
     }
   ],
   "vocalist": [
@@ -88,8 +75,8 @@
       "experience_level": 3,
       "location": "California",
       "preferred_genre": "pop",
-      "long-term-gig": false,
-      "short-term-gig": true,
+      "long_term_gig": false,
+      "short_term_gig": true,
       "id": 1
     },
     {
@@ -100,8 +87,8 @@
       "experience_level": 1,
       "location": "Georgia",
       "preferred_genre": "rock",
-      "long-term-gig": true,
-      "short-term-gig": false,
+      "long_term_gig": true,
+      "short_term_gig": false,
       "id": 2
     },
     {
@@ -112,8 +99,8 @@
       "experience_level": 3,
       "location": "California",
       "preferred_genre": "jazz",
-      "long-term-gig": false,
-      "short-term-gig": true,
+      "long_term_gig": false,
+      "short_term_gig": true,
       "id": 3
     },
     {
@@ -124,8 +111,8 @@
       "experience_level": 1,
       "location": "Florida",
       "preferred_genre": "country",
-      "long-term-gig": true,
-      "short-term-gig": false,
+      "long_term_gig": true,
+      "short_term_gig": false,
       "id": 4
     },
     {
@@ -136,8 +123,8 @@
       "experience_level": 5,
       "location": "New Mexico",
       "preferred_genre": "jazz",
-      "long-term-gig": false,
-      "short-term-gig": true,
+      "long_term_gig": false,
+      "short_term_gig": true,
       "id": 5
     }
   ]
