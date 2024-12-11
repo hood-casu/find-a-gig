@@ -16,7 +16,7 @@ layout: page
 | --- | --- | --- |
 | id | integer | Identification number assigned to a users instrumentalist or vocalist profile upon creation.|
 
-Get a profile's ID number by sending a request to [Create an instrumentalist profile][inst-create-inst.md] or sending a request for [GET all instrumentalists][inst-get-all-inst.md].
+Get a profile's ID number by sending a request to [CREATE an instrumentalist profile][def] or sending a request for [GET all instrumentalists][def2].
 
 ## Request example
 
@@ -50,5 +50,5 @@ curl --location --request PATCH 'http://localhost:3000/instrumentalist/6' \
 
 ## Related links
 
-[inst-create-inst.md]: inst-create-inst.md
-[inst-get-all-inst.md]: inst-update-inst.md
+[def]: inst-create-inst.md
+[def2]: inst-get-all-inst.md
