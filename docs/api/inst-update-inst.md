@@ -16,7 +16,7 @@ layout: page
 | --- | --- | --- |
 | id | integer | Identification number assigned to a users instrumentalist or vocalist profile upon creation.|
 
-Get a profile's ID number by sending a request to [Create an instrumentalist profile](api/inst-create-inst/) or sending a request for [GET all instrumentalists](api/inst-get-all-inst/).
+Get a profile's ID number by sending a request to [Create an instrumentalist profile](inst-create-inst/) or sending a request for [GET all instrumentalists](inst-get-all-inst/).
 
 ## Request example
 
