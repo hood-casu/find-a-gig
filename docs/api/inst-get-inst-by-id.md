@@ -12,8 +12,9 @@ layout: page
 
 ## Description
 
-## Parameters
+This call will return a list of all instrumentalists in the Find-a-gig database.
 
+## Parameters
 
 ## Request example
 

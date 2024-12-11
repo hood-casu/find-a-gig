@@ -74,7 +74,7 @@
       "experience_level": 3,
       "location": "Maryland",
       "preferred_genre": "metal",
-      "long-term-gig": true,
+      "long-term-gig": false,
       "short-term-gig": false,
       "id": 6
     }
