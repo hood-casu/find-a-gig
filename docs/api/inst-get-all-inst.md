@@ -4,15 +4,13 @@ layout: page
 
 # GET all instrumentalists
 
+Get a list of all the instrumentalists in the Find-a-gig API.
+
 ## Base endpoint
 
 ```shell
 {base_url}/instrumentalist
 ```
-
-## Description
-
-Get a list of all the instrumentalists in the Find-a-gig API.
 
 ## Parameters
 
@@ -26,7 +24,7 @@ curl --location 'http://localhost:3000/instrumentalist'
 
 ## Return body example
 
-```
+```json
 [
     {
         "last_name": "Beverly",

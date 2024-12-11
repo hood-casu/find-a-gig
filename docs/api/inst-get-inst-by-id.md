@@ -4,21 +4,21 @@ layout: page
 
 # GET instrumentalists by ID
 
+This call will return a single instrumentalist by the assigned ID number.
+
 ## Base endpoint
 
 ```shell
 {base_url}/instrumentalist
 ```
 
-## Description
-
-This call will return a single instrumentalist by the assigned ID number.
-
 ## Parameters
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | id | integer | Identification number assigned to a users instrumentalist or vocalist profile upon creation.|
+
+Get a profile's ID number by sending a request to [Create an instrumentalist profile](api/inst-create-inst/) or sending a request for [GET all instrumentalists](api/inst-get-all-inst/).
 
 ## Request example
 
@@ -50,4 +50,4 @@ curl --location 'http://localhost:3000/instrumentalist/6'
 | --- | --- | --- |
 | 200 | Success |  |
 | 404 | Failed |  |
-| ECONREFUSED | N/A | 
+| ECONREFUSED | N/A | |

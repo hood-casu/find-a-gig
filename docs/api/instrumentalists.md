@@ -2,9 +2,9 @@
 layout: page
 ---
 
-# `instrumentalists` resource
+# `instrumentalist` resource
 
-Base endpoint
+## Base endpoint
 
 ```shell
 {base-url}/instrumentalist
@@ -12,26 +12,27 @@ Base endpoint
 
 ## Resource properties
 
-Sample `instrumentalists` resource.
+Sample `instrumentalist` resource.
 
-``` shell
+``` json
 {
     "last_name": "Johnson",
     "first_name": "Lily",
     "email": "ljohnson@example.com",
     "phone_number": "555-555-2741",
     "instrument": "guitar",
-    "experience_level": "advanced",
+    "experience_level": 5,
     "location": "Texas",
     "preferred_genre": "blues",
-    "gig_type": "one-time",
+    "long-term-gig": true,
+    "short-term-gig": false,
     "id": 2    
 }
 ```
 
 | Properties | Type | Description |
 |--- | --- | ---|
-| last_name | string | Surname of the instrumentalists.|
+| last_name | string | Surname of the instrumentalist.|
 | first_name | string | First name of the instrumentalist.|
 | email | string | Email address for the vocalist.|
 | phone_number | string | Vocalist's phone number. |

@@ -7,24 +7,24 @@ layout: page
 Base endpoint
 
 ```shell
-{base-url}/vocalists
+{base-url}/vocalist
 ```
 
 ## Resource properties
 
-Sample `vocalists` resource
+Sample `vocalist` resource
 
-``` shell
-
+``` json
 {
     "last_name": "Johnson",
     "first_name": "Anya",
     "email": "anya@example.com",
     "phone_number": "202-555-7853",
-    "experience_level": "intermediate",
+    "experience_level": 4,
     "location": "California",
     "preferred_genre": "pop",
-    "gig_type": "one-time",
+    "long-term-gig": true,
+    "short-term-gig": false,
     "id": 1  
 }
 ```
