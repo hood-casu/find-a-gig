@@ -37,8 +37,8 @@ Use the reference documentation below to resource details, example requests, and
 * [Vocalists resource](api/vocalists/)
   * [Create a vocalist](api/voc-create-voc/)
   * [Get all vocalists](api/voc-get-all-vocalists/)
-  * [Get vocalist by ID](api/voc-get-vocalists-by-id/)
-  * [Update a vocalist](api/voc-update-inst/)
+  * [Get vocalist by ID](api/voc-get-vocalist-by-id/)
+  * [Update a vocalist](api/voc-update-voc/)
   * [Delete a vocalist](api/voc-delete-voc/)
 
 ## Helpful links
