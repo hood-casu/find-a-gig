@@ -48,6 +48,7 @@ curl --location --request PATCH 'http://localhost:3000/instrumentalist/6' \
 }
 ```
 
+## Related links
 
 [inst-update-inst.md]: inst-get-all-inst.md
 [inst-create-inst.md]: inst-create-inst.md
