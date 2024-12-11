@@ -18,7 +18,7 @@ This request allows you to change specific information in a vocalist's profile.
 | --- | --- | --- |
 | id | integer | Identification number assigned to a users instrumentalist or vocalist profile upon creation.|
 
-Get a profile's ID number by sending a request to [Create a vocalist profile](api/voc-create-voc/) or sending a request for [GET all vocalists](api/voc-get-all-vocalists/).
+Get a profile's ID number by sending a request to [Create a vocalist profile](voc-create-voc/) or sending a request for [GET all vocalists](voc-get-all-vocalists/).
 
 ## Request example
 
