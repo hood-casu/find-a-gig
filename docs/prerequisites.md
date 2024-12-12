@@ -85,4 +85,4 @@ Some common situations that cause errors include:
 4. A required software component isn't up to date.
 
 **Success!** If you see the list of instrumentalists from the service, you're ready to do
-the [Tutorials](tutorials/).
+the [Tutorials](tutorials.md).

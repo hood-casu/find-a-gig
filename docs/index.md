@@ -21,7 +21,7 @@ Use the steps on the [Prerequisites](prerequisites/) page before using the Find-
 * [Add a vocalist profile](tutorials/add-a-vocalist-profile/)
 * [Find an instrumentalist for a gig](tutorials/find-an-inst/)
 * [Find a vocalist for a gig](tutorials/find-a-vocalist/)
-* [Remove a musician profile](tutorials/remove-an-inst/)
+* [Remove a musician profile](tutorials/remove-a-musician-profile/)
 * [Find a musician by profile property](tutorials/find-musician-property/)
 * [Change a musician profile](tutorials/change-a-musician-profile/)
 

@@ -112,3 +112,6 @@ If you correctly sent added a instrumentalist profile, the response will look so
 * [CREATE an instrumentalist](inst-create-inst.md)
 * [GET all instrumentalists](inst-get-all-inst.md)
 * [Vocalist resource](vocalists.md)
+
+
+[def]: prerequisites.md

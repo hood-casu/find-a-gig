@@ -72,5 +72,5 @@ The return should include all the information included in the request as well as
 ## Related pages
 
 * [CREATE an instrumentalist](create-inst.md)
-* [GET all vocalists](get-all-voc.md)
+* [GET all vocalists](get-all-vocalists.md)
 * [Vocalist resource](vocalist.md)
