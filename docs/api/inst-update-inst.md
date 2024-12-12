@@ -48,7 +48,12 @@ curl --location --request PATCH 'http://localhost:3000/instrumentalist/6' \
 }
 ```
 
-## Related links
+## Related pages
+
+* [CREATE an instrumentalist](inst-create-inst.md)
+* [GET all instrumentalists](inst-get-all-inst.md)
+* [Vocalist resource](vocalists.md)
+
 
 [def]: inst-create-inst.md
 [def2]: inst-get-all-inst.md

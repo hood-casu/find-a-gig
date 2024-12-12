@@ -33,3 +33,9 @@ curl --location --request DELETE 'http://localhost:3000/instrumentalist/6'
 ## Verify request
 
 Determine the success of the request by sending a [GET all instrumentalist](api/inst-get-all-inst/) call and verifying the specified profile is no longer part of the database.
+
+## Related pages
+
+* [CREATE an instrumentalist](inst-create-inst.md)
+* [GET all instrumentalists](inst-get-all-inst.md)
+* [Vocalist resource](vocalists.md)

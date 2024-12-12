@@ -51,3 +51,9 @@ curl --location 'http://localhost:3000/instrumentalist/6'
 | 200 | Success |  |
 | 404 | Failed |  |
 | ECONREFUSED | N/A | |
+
+## Related pages
+
+* [CREATE an instrumentalist](inst-create-inst.md)
+* [GET all instrumentalists](inst-get-all-inst.md)
+* [Vocalist resource](vocalists.md)

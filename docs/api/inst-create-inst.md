@@ -71,3 +71,10 @@ The return should include all the information included in the request as well as
     "id": 6
 }
 ```
+
+## Related pages
+
+* [CREATE an instrumentalist](inst-create-inst.md)
+* [GET all instrumentalists](inst-get-all-inst.md)
+* [Vocalist resource](vocalists.md)
+

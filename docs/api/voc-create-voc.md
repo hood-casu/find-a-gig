@@ -40,7 +40,7 @@ curl --location 'http://localhost:3000/vocalist' \
     "first_name": "Test",
     "email": "testuser@example.com",
     "phone_number": "555-555-5555",
-    "experience_level": "advanced",
+    "experience_level": 3,
     "location": "Texas",
     "preferred_genre": "blues",
     "gig_type": "one-time"  
@@ -67,3 +67,9 @@ The return should include all the information included in the request as well as
 ```
 
 | id | number | Identification number assigned to the vocalist upon adding their profile to the Find-a-gig API.|
+
+## Related pages
+
+* [CREATE an instrumentalist](inst-create-inst.md)
+* [GET all instrumentalists](inst-get-all-inst.md)
+* [Vocalist resource](vocalists.md)
