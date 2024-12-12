@@ -1,8 +1,9 @@
 ---
 layout: page
+title: Vocalist resource
 ---
 
-# `vocalists` resource
+# `vocalist` resource
 
 Base endpoint
 
@@ -44,6 +45,7 @@ Sample `vocalist` resource
 
 ## Related pages
 
-* [ADD a vocalist](../tutorials/add-a-vocalist.md)
-* [GET all vocalists](../api/vocalists-get-all-vocalists.md)
-* [Instrumentalists resource](../api/instrumentalists.md)
+* [CREATE a vocalist](create-voc.md)
+* [CREATE an instrumentalist](create-inst.md)
+* [GET all instrumentalists](get-all-inst.md)
+* [`instrumentalist` resource](instrumentalist.md)

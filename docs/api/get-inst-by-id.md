@@ -1,5 +1,6 @@
 ---
 layout: page
+title: GET instrumentalists by ID
 ---
 
 # GET instrumentalists by ID
@@ -18,7 +19,7 @@ This call will return a single instrumentalist by the assigned ID number.
 | --- | --- | --- |
 | id | integer | Identification number assigned to a users instrumentalist or vocalist profile upon creation.|
 
-Get a profile's ID number by sending a request to [Create an instrumentalist profile](api/inst-create-inst/) or sending a request for [GET all instrumentalists](api/inst-get-all-inst/).
+Get a profile's ID number by sending a request to [CREATE an instrumentalist profile][def] or sending a request for [GET all instrumentalists][def2].
 
 ## Request example
 
@@ -48,12 +49,15 @@ curl --location 'http://localhost:3000/instrumentalist/6'
 
 | Status Value | Return Status | Indicates |
 | --- | --- | --- |
-| 200 | Success |  |
-| 404 | Failed |  |
-| ECONREFUSED | N/A | |
+| 200 | Success | Data requested returned successfully |
+| 404 | Failed | Instrumentalist record not found |
+| ECONREFUSED | N/A | Service is offline. Start the service and try again. |
 
 ## Related pages
 
-* [CREATE an instrumentalist](inst-create-inst.md)
-* [GET all instrumentalists](inst-get-all-inst.md)
-* [Vocalist resource](vocalists.md)
+* [CREATE a vocalist](create-voc.md)
+* [GET all instrumentalists][def2]
+* [Vocalist resource](vocalist.md)
+
+[def]: create-inst.md
+[def2]: get-all-inst.md

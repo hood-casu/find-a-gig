@@ -1,5 +1,6 @@
 ---
 layout: page
+title: DELETE an instrumentalist
 ---
 
 # DELETE an instrumentalist
@@ -22,7 +23,7 @@ Use this call to delete an existing instrumentalist profile with the instrumenta
 | --- | --- | --- |
 | id | integer | Identification number assigned to a users instrumentalist or vocalist profile upon creation.|
 
-Get a profile's ID number by sending a request to [Create an instrumentalist profile](api/inst-create-inst/) or sending a request for [GET all instrumentalists](api/inst-get-all-inst/).
+Get a profile's ID number by sending a request to [CREATE an instrumentalist profile][def2] or sending a request for [GET all instrumentalists][def].
 
 ## Request example
 
@@ -36,6 +37,9 @@ Determine the success of the request by sending a [GET all instrumentalist](api/
 
 ## Related pages
 
-* [CREATE an instrumentalist](inst-create-inst.md)
-* [GET all instrumentalists](inst-get-all-inst.md)
-* [Vocalist resource](vocalists.md)
+* [CREATE a vocalist](create-voc.md)
+* [GET all instrumentalists][def]
+* [Vocalist resource](vocalist.md)
+
+[def]: get-all-inst.md
+[def2]: create-inst.md

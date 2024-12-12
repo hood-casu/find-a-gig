@@ -1,5 +1,6 @@
 ---
 layout: page
+title: CREATE a vocalist
 ---
 
 # CREATE a vocalist
@@ -70,6 +71,6 @@ The return should include all the information included in the request as well as
 
 ## Related pages
 
-* [CREATE an instrumentalist](inst-create-inst.md)
-* [GET all instrumentalists](inst-get-all-inst.md)
-* [Vocalist resource](vocalists.md)
+* [CREATE an instrumentalist](create-inst.md)
+* [GET all vocalists](get-all-voc.md)
+* [Vocalist resource](vocalist.md)

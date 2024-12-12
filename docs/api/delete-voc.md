@@ -1,5 +1,6 @@
 ---
 layout: page
+title: DELETE a vocalist
 ---
 
 # DELETE a vocalist
@@ -36,6 +37,6 @@ Determine the success of the request by sending a [GET all vocalist](api/voc-get
 
 ## Related pages
 
-* [CREATE an instrumentalist](inst-create-inst.md)
-* [GET all instrumentalists](inst-get-all-inst.md)
-* [Vocalist resource](vocalists.md)
+* [CREATE a vocalist](create-voc.md)
+* [GET all instrumentalists](get-all-inst.md)
+* [Vocalist resource](vocalist.md)
