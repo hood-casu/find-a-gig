@@ -21,7 +21,7 @@ Use the steps on the [Prerequisites](prerequisites/) page before using the Find-
 * [Add a vocalist profile](tutorials/add-a-vocalist-profile/)
 * [Find an instrumentalist for a gig](tutorials/find-an-inst/)
 * [Find a vocalist for a gig](tutorials/find-a-vocalist/)
-* [Remove a musician profile](tutorials/remove-a-musician-profile/)
+* [Remove a musician profile](tutorials/remove-a-musician/)
 * [Find a musician by profile property](tutorials/find-musician-property/)
 * [Change a musician profile](tutorials/change-a-musician-profile/)
 
@@ -35,7 +35,7 @@ Use the reference documentation below to resource details, example requests, and
   * [Get instrumentalist by ID](api/get-inst-by-id/)
   * [Update an instrumentalist](api/update-inst/)
   * [Delete an instrumentalist](api/delete-inst/)
-* [Vocalists resource](api/vocalists/)
+* [Vocalists resource](api/vocalist/)
   * [Create a vocalist](api/create-voc/)
   * [Get all vocalists](api/get-all-vocalists/)
   * [Get vocalist by ID](api/get-vocalist-by-id/)
