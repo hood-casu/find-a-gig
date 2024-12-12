@@ -8,8 +8,8 @@ markdown: kramdown
 permalink: pretty
 header_pages:
   - index.md
-  - tutorials.md
   - prerequisites.md
+  - tutorials.md
   - api-reference.md
 minima:
   social_links:

@@ -72,14 +72,15 @@ If you correctly sent added a vocalist profile, the response will look something
 {}
 ```
 
+Verify the success of the request by sending a [GET all instrumentalists](find-an-inst.md) or [GET all vocalists request](find-a-vocalist.md).
+
 **Congratulations!** You've removed a musician profile to the Find-a-gig database.
 
 ## Related pages
 
-* [CREATE an instrumentalist](inst-create-inst.md)
-* [GET all instrumentalists](inst-get-all-inst.md)
-* [Vocalist resource](vocalists.md)
-
+* [Add an instrumentalist profile](add-an-inst-profile.md)
+* [Add a vocalist profile](add-a-vocalist-profile.md)
+* [Change a musician profile](change-a-musician-profile.md)
 
 [def]: prerequisites.md
 [def2]: change-a-musician-profile.md

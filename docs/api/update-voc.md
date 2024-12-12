@@ -1,5 +1,6 @@
 ---
 layout: page
+title: UPDATE a vocalist
 ---
 
 # UPDATE a vocalist
@@ -18,7 +19,7 @@ This request allows you to change specific information in a vocalist's profile.
 | --- | --- | --- |
 | id | integer | Identification number assigned to a users instrumentalist or vocalist profile upon creation.|
 
-Get a profile's ID number by sending a request to [Create a vocalist profile](voc-create-voc/) or sending a request for [GET all vocalists](voc-get-all-vocalists/).
+Get a profile's ID number by sending a request to [CREATE a vocalist](create-voc.md) or sending a request for [GET all vocalists](get-all-vocalists.md).
 
 ## Request example
 
@@ -49,6 +50,6 @@ curl --location --request PATCH 'http://localhost:3000/vocalist/6' \
 
 ## Related pages
 
-* [CREATE an instrumentalist](inst-create-inst.md)
-* [GET all instrumentalists](inst-get-all-inst.md)
-* [Vocalist resource](vocalists.md)
+* [CREATE a vocalist](create-voc.md)
+* [GET all vocalists](get-all-voc.md)
+* [Vocalist resource](vocalist.md)

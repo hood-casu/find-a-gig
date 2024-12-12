@@ -96,5 +96,4 @@ If you correctly sent added a vocalist profile, you will receive a list of all v
 * [GET all instrumentalists](inst-get-all-inst.md)
 * [Vocalist resource](vocalists.md)
 
-
 [def]: prerequisites.md

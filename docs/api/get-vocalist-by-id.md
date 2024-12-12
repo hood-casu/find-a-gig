@@ -1,5 +1,6 @@
 ---
 layout: page
+title: GET vocalists by ID
 ---
 
 # GET vocalists by ID
@@ -43,8 +44,17 @@ curl --location 'http://localhost:3000/vocalist/6'
 }
 ```
 
+## Return status
+
+| Status Value | Return Status | Indicates |
+| --- | --- | --- |
+| 200 | Success | Data requested returned successfully |
+| 404 | Failed | Vocalist record not found |
+| ECONREFUSED | N/A | Service is offline. Start the service and try again. |
+
 ## Related pages
 
-* [CREATE an instrumentalist](inst-create-inst.md)
-* [GET all instrumentalists](inst-get-all-inst.md)
-* [Vocalist resource](vocalists.md)
+* [CREATE a vocalist](create-voc.md)
+* [GET all instrumentalists](get-all-inst.md)
+* [GET all instrumentalists by id](get-inst-by-id.md)
+* [Vocalist resource](vocalist.md)

@@ -60,6 +60,7 @@ Now that your json server is running, you are ready to add a new profile in Post
     "short_term_gig": {boolean}
     }
     ```
+
 6. Click the **Send** button and wait for the response.
 
 ### In cURL
@@ -86,20 +87,20 @@ Now that your json server is running, you are ready to add a new profile in Post
 
 If you correctly sent added a vocalist profile, the response will look something like this:
 
-    ```json
-    {
-        "last_name": "User",
-        "first_name": "Test",
-        "email": "testuser@example.com",
-        "phone_number": "555-555-5555",
-        "experience_level": 4,
-        "location": "State",
-        "preferred_genre": "blues",
-        "long_term_gig": false,
-        "short_term_gig": true,
-        "id": 6
-    }
-    ```
+```json
+{
+    "last_name": "User",
+    "first_name": "Test",
+    "email": "testuser@example.com",
+    "phone_number": "555-555-5555",
+    "experience_level": 4,
+    "location": "State",
+    "preferred_genre": "blues",
+    "long_term_gig": false,
+    "short_term_gig": true,
+    "id": 6
+}
+```
 
 **TIP**: If you want to alter the information in the profile at any time, keep the ID number for the profile on hand so you can reference it later.
 
@@ -110,6 +111,5 @@ If you correctly sent added a vocalist profile, the response will look something
 * [CREATE an instrumentalist](inst-create-inst.md)
 * [GET all instrumentalists](inst-get-all-inst.md)
 * [Vocalist resource](vocalists.md)
-
 
 [def]: prerequisites.md

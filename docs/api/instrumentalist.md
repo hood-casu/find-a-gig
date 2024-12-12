@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Instrumentalist resource
 ---
 
 # `instrumentalist` resource
@@ -46,6 +47,6 @@ Sample `instrumentalist` resource.
 
 ## Related pages
 
-* [CREATE an instrumentalist](inst-create-inst.md)
-* [GET all instrumentalists](inst-get-all-inst.md)
-* [Vocalist resource](vocalists.md)
+* [CREATE an instrumentalist](create-inst.md)
+* [GET all instrumentalists](get-all-inst.md)
+* [Vocalist resource](vocalist.md)

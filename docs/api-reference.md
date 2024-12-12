@@ -9,22 +9,16 @@ This is a list of all the currently published API reference pages for the Find-a
 
 ## `instrumentalist` resource:
 
-* CREATE an instrumentalist
-* GET all instrumentalists
-* GET an instrumentalist by ID
-* UPDATE an instrumentalist
-* DELETE an instrumentalist
+* [CREATE an instrumentalist](create-inst.md)
+* [GET all instrumentalists](get-all-inst.md)
+* [GET an instrumentalist by ID](get-inst-by-id.md)
+* [UPDATE an instrumentalist](update-inst.md)
+* [DELETE an instrumentalist](delete-inst.md)
 
 ## `vocalist` resource:
 
-* CREATE a vocalist
-* GET all vocalists
-* GET a vocalist by ID
-* UPDATE a vocalist
-* DELETE a vocalist
-
-## Related pages
-
-* [CREATE an instrumentalist](inst-create-inst.md)
-* [GET all instrumentalists](inst-get-all-inst.md)
-* [Vocalist resource](vocalists.md)
+* [CREATE a vocalist](create-voc.md)
+* [GET all vocalists](get-all-vocalists.md)
+* [GET a vocalist by ID](get-voc-by-id.md)
+* [UPDATE a vocalist](update-voc.md)
+* [DELETE a vocalist](delete-voc.md)

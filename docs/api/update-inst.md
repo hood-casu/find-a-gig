@@ -1,5 +1,6 @@
 ---
 layout: page
+title: UPDATE an instrumentalist
 ---
 
 # UPDATE an instrumentalist
@@ -50,10 +51,10 @@ curl --location --request PATCH 'http://localhost:3000/instrumentalist/6' \
 
 ## Related pages
 
-* [CREATE an instrumentalist](inst-create-inst.md)
-* [GET all instrumentalists](inst-get-all-inst.md)
-* [Vocalist resource](vocalists.md)
+* [CREATE a vocalist](create-voc.md)
+* [GET all instrumentalists](get-all-inst.md)
+* [Vocalist resource](vocalist.md)
 
 
-[def]: inst-create-inst.md
-[def2]: inst-get-all-inst.md
+[def]: create-inst.md
+[def2]: get-all-inst.md

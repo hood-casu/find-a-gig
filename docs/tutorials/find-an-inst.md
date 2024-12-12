@@ -99,4 +99,3 @@ If you correctly sent added a vocalist profile, the response will look something
 * [Vocalist resource](vocalists.md)
 
 [def]: prerequisites.md
-
