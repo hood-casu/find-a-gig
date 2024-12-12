@@ -19,6 +19,6 @@ This is a list of all the currently published API reference pages for the Find-a
 
 * [CREATE a vocalist](create-voc/)
 * [GET all vocalists](get-all-vocalists/)
-* [GET a vocalist by ID](get-voc-by-id/)
+* [GET a vocalist by ID](get-vocalist-by-id/)
 * [UPDATE a vocalist](update-voc/)
 * [DELETE a vocalist](delete-voc/)
